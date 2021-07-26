@@ -8,6 +8,8 @@ a mod of friday night funkin that i will destroy
 2) bass boosted music
 3) mentally distorted voices
 
+becuase of how lazy i am i wont be editing the ui (exept the arrows >:3)
+
 the og readme below:
 
 # Friday Night Funkin
