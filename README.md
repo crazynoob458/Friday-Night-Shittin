@@ -1,3 +1,15 @@
+# Friday Night shittin
+
+a mod of friday night funkin that i will destroy
+
+## soon to be in existence features
+
+1) ms paint graphics
+2) bass boosted music
+3) mentally distorted voices
+
+the og readme below:
+
 # Friday Night Funkin
 
 This is the repository for Friday Night Funkin, a game originally made for Ludum Dare 47 "Stuck In a Loop".
