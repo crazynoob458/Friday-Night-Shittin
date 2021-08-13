@@ -6,7 +6,7 @@ a mod of friday night funkin that i will destroy
 
 1) ms paint graphics
 2) bass boosted music
-3) mentally distorted voices
+3) earrape voices
 
 becuase of how lazy i am i wont be editing the ui (exept the arrows >:3)
 
