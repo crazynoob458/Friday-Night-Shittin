@@ -18,11 +18,11 @@ class OutdatedSubState extends MusicBeatState
 		add(bg);
 		var ver = "v" + Application.current.meta.get('version');
 		var txt:FlxText = new FlxText(0, 0, FlxG.width,
-			"HEY! You're running an outdated version of the game!\nCurrent version is "
+			"hey "
 			+ ver
-			+ " while the most recent version is "
+			+ " please ignore this i am bad a coding just press enter dont press escape "
 			+ NGio.GAME_VER
-			+ "! Press Space to go to itch.io, or ESCAPE to ignore this!!",
+			+ "! ignore this!!",
 			32);
 		txt.setFormat("VCR OSD Mono", 32, FlxColor.WHITE, CENTER);
 		txt.screenCenter();
@@ -31,11 +31,11 @@ class OutdatedSubState extends MusicBeatState
 
 	override function update(elapsed:Float)
 	{
-		if (controls.ACCEPT)
-		{
-			FlxG.openURL("https://ninja-muffin24.itch.io/funkin");
-		}
 		if (controls.BACK)
+		{
+			FlxG.openURL("https://en.wikipedia.org/w/index.php?title=Wikipedia:WHY_(disambiguation)&redirect=no");
+		}
+		if (controls.ACCEPT)
 		{
 			leftState = true;
 			FlxG.switchState(new MainMenuState());
